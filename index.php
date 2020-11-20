@@ -32,7 +32,7 @@ include 'header.php';
     <br /><br />
     <strong>Our amenities include:</strong>
     <ul>
-    	<li> Private Bathrooms</li>
+    	<li> Private_Bathrooms</li>
         <li> Internet Access</li>
         <li> Flat Screen TV</li>
         <li> Full-size washer and dryers</li>
